@@ -58,7 +58,7 @@ func main() {
 
 ## Validation
 
-Thirty assertions in the merkle_test package ensure that trees of different dimensions change the root hash with any sort of change to inputs.
+Thirty [assertions in the merkle_test package](https://github.com/PaluMacil/merkle/blob/main/merkle/tree_test.go) ensure that trees of different dimensions change the root hash with any sort of change to inputs.
 
 ## License
 
